@@ -1,4 +1,4 @@
-# Developer Coding Test Instructions
+# Developer Coding Exercise Instructions
 
 ## Files Provided
 
